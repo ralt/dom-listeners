@@ -1,0 +1,11 @@
+{
+    "name": "dom-listeners",
+    "version": "0.1.0",
+    "description": "DOM listeners made easy",
+    "author": "Florian Margaine <florian@margaine.com>",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ralt/dom-listeners"
+    }
+}
